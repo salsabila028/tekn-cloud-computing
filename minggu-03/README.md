@@ -5,6 +5,7 @@ Dipertemuan kali ini membahas tentang menghubungkan Cyclic dengan GIT serta Logi
 1. [Latihan](latihan.md) 
 2. [Tugas](tugas.md)
 
+```
 minggu-03
 ├── minggu-03
 |   ├── latihan
@@ -15,3 +16,4 @@ minggu-03
 ├── latihan.md
 ├── tugas.md
 └── README.md
+```
